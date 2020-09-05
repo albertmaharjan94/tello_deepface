@@ -8,8 +8,9 @@ $ pip install -r requirements.txt
 ```
 
 # Credits
-This script has been adapted from Jabrils [TelloTV](https://github.com/Jabrils/TelloTV) 
+[deepface](https://pypi.org/project/deepface/)
 
+This script has been adapted from Jabrils [TelloTV](https://github.com/Jabrils/TelloTV) 
 
 This script has further been adapted from Damià Fuentes Escoté's [TelloSDKPy](https://github.com/damiafuentes/DJITelloPy) script, please check it out if you want to learn more about that.
 
